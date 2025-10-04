@@ -6,6 +6,3 @@ def read_configuration(category,key):
     config.read("configurations/config.ini")
     return config.get(category,key)
 
-
-
-################## Nikhil pramod Dhamange ####################
